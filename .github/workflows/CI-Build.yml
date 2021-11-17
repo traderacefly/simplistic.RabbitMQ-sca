@@ -33,8 +33,8 @@ jobs:
           echo 'downloading SCA installer'
           pwd
           ls -l
-          wget "http://<Public_IP>:8180/ssc/downloads/Fortify_SCA_and_Apps_21.1.1_linux_x64.run"
-          wget "http://<Public_IP>:8180/ssc/downloads/fortify.license"
+          wget "https://findfix.fortify.io/ssc/downloads/Fortify_SCA_and_Apps_21.1.1_linux_x64.run"
+          wget "https://findfix.fortify.io/ssc/downloads/fortify.license"
           ls -l
           chmod +x "Fortify_SCA_and_Apps_21.1.1_linux_x64.run"
           
