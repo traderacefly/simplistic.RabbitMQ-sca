@@ -1,4 +1,4 @@
-This is a sample for sca-maven-plugin. You can use it to verify that the plugin functions correctly.
+This is a sample for sca-maven-plugin. You can use it to verify that the plugin functions correctly. abcxyz
 
 << System Operating Environment >>
 	sca-maven-plugin supports Maven 3.0.5 and 3.3.x.
